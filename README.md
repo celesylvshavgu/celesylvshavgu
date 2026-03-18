@@ -1,16 +1,16 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**celesylvshavgu/celesylvshavgu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# ˚ ༘♡ ⋆｡˚ celestina's secret lab ˚｡🌸
 
-Here are some ideas to get you started:
+![Mizuki Banner](https://github.com/celesylvshavgu/celesylvshavgu/blob/main/mizuki-akiyama-pjsekai.gif)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ⚖️ International Law Interpreter | 🧪 Malware Analyst 
+$${ \color{#ff69b4} \text{International Protection Tribunal } \diamond \text{ Self-taught } \diamond \text{ losing my mind to C } }$$
+$${ \color{#ff69b4} \text{analyzing script kiddie attempts at becoming the new Elliot Alderson...} }$$
+
+---
+
+### 🎀 [ $${ \color{#ff69b4} \text{THE INVESTIGATION BOARD} }$$ ]
+
+$${ \color{#ff69b4} \text{🍓 Trying to make my own Operating System...} }$$
+$${ \color{#ff69b4} \text{(and failing. I'm losing it.)} }$$
